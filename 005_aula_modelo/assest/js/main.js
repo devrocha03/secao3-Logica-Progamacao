@@ -24,7 +24,7 @@ function calcularIMC() {
     } else if (imc >= 35 && imc <= 39.9) {
       botao.innerHTML = `Seu IMC é de ${imc.toFixed(2)} (Obesidade Grau 2) `;
     } else if (imc >= 40) {
-      botao.innerHTML = `Seu IMC é de ${imc.toFixed(2)} (Obesidade Grau 3) `;
+      botao.innerHTML = `Seu IMC é de ${imc.toFixed(2)} (Obesidade Grau 3 ksdfsadf) `;
       return;
     }
   }
