@@ -1,4 +1,5 @@
 🚀 Lógica de Programação com JavaScript
+
 Este repositório documenta minha jornada de aprendizado em Lógica de Programação e os fundamentos da linguagem JavaScript.
 
 Cada pasta (001_aula, 002_aula, etc.) corresponde a uma aula ou exercício específico, cobrindo tópicos essenciais para quem está começando no desenvolvimento de software.
