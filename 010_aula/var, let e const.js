@@ -19,8 +19,8 @@ const verdadeira = true;
 function falaOi() {
   
   if (verdadeira) {
-    let nome = 'Rogério'
-    var sobrenome = "Mendes"
+    let nome = 'João'
+    var sobrenome = "Rocha"
   }
   console.log(sobrenome);
 }
