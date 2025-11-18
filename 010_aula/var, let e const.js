@@ -1,4 +1,4 @@
-const verdadeira = true
+const verdadeira = true;
 
 // LET tem escopo de BLOCO {....}
 // VAR só tem escopo de função
@@ -22,7 +22,7 @@ function falaOi() {
     let nome = 'Rogério'
     var sobrenome = "Mendes"
   }
-  console.log(sobrenome);
+  console.log(nome);
 }
 
 falaOi();
