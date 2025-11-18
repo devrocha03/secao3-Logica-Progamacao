@@ -22,7 +22,7 @@ function falaOi() {
     let nome = 'Rogério'
     var sobrenome = "Mendes"
   }
-  console.log(sobrenome);
+  console.log(nome);
 }
 
 falaOi();
