@@ -1,0 +1,26 @@
+body {
+  background: rgb(4, 41, 58);
+  margin-top: 40px;
+}
+
+.container {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  max-width: 520px;
+  margin: 0 auto;
+  padding: 10px 40px;
+  background: white;
+  border-radius: 30px;
+
+}
+
+.relogio {
+  font-size: 4em;
+}
+
+p {
+  margin: 20px auto;
+}
+
+.pausado {
+  color: red;
+}
